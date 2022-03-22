@@ -1,5 +1,5 @@
 # Algorithm
-It includes patika projects, coderbyte challenges and hackerrank solutions.
+It includes patika.dev algorithm task solutions
 
 ## Insertion-Sort-Project
 This project is the first project about Data Structures and Algorithm module by Patika.
